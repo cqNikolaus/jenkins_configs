@@ -5,6 +5,9 @@ job-dsl
 docker-workflow
 docker-plugin
 credentials
+ssh-credentials
+plain-credentials
+credentials-binding
 jobConfigHistory
 pipeline-graph-view
 pipeline-maven
